@@ -1,0 +1,26 @@
+{
+  "data": {
+    "browsers": [
+      {
+        "id": 1,
+        "name": "Chrome"
+      },
+      {
+        "id": 2,
+        "name": "Firefox"
+      }
+    ],
+    "url": [
+      {
+        "id": 1,
+        "name": "https://demoqa.com/"
+      }
+    ],
+    "wait": [
+      {
+        "id": 1,
+        "name": "3"
+      }
+    ]
+  }
+}
